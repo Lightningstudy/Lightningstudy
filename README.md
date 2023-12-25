@@ -6,8 +6,3 @@ There's always something intriguing to learn.
 - 🤖 I’m also currently learning how to program autonomous robots
 - 🪴I like things that makes programming more beautiful, efficient, and impactful.
 - ⚡ Fun fact: I'm down for working out!
-
-<!--
-**Lightningstudy/Lightningstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
---> 
