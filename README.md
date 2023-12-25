@@ -2,7 +2,8 @@
 
 There's always something intriguing to learn.
 
-- ⌨️ I have worked on projects related to Optical Character Recognition (OCR), Natural Language Processing (NLP), Name Entity Recognition (NER), Regular Expressions (RegEx), Machine Learning (ML), and things that interest me along the way.
+- ⌨️ I work on projects related to OCR, NLP, NER, Machine Learning, and things that interest me along the way
 - 🤖 I’m also currently learning how to program autonomous robots
-- 🪴I like things that makes programming more beautiful, efficient, and impactful.
+- 👀I am interested in explainable AI that can communicate with human-like language & intelligence.
+- 🪴I like beautiful, efficient, and impactful programming
 - ⚡ Fun fact: I'm down for working out!
